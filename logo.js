@@ -45,7 +45,7 @@ document.write(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${W*as
 	<mask id="M"><text text-anchor="middle" x="${W/2}" y="${W*as*.8|0}" fill="#fff" stroke="#fff" stroke-width="19">GENUARY2022</text></mask>
 
  <text text-anchor="middle" x="${W/2+25}" y="${W*as*.8+25|0}" fill="#000" stroke="#0008" stroke-width="35">GENUARY2022</text>
- <text text-anchor="middle" x="${W/2}" y="${W*as*.8|0}" fill="none" stroke="#fffa" stroke-width="35">GENUARY2022</text>
+ <text text-anchor="middle" x="${W/2}" y="${W*as*.8|0}" fill="none" stroke="#fff" stroke-width="35">GENUARY2022</text>
 
 
 	<g mask="url(#M)" >
