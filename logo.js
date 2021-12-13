@@ -7,7 +7,7 @@ A=(p,q,a=1)=>(p.x+=q.x*a,p.y+=q.y*a,p);
 H=(p,q)=>(p.x-q.x)**2+(p.y-q.y)**2;
 S=Uint32Array.from([9,7,n=t=5,3]);
 R=(a=1)=>a*(t=S[3],S[3]=S[2],S[2]=S[1],S[1]=n=S[0],t^=t<<11,S[0]^=(t^t>>>8)^(n>>>19),S[0]/2**32);
-[...fxhash+'GEN2022'].map(c=>R(S[3]^=c.charCodeAt()*23130));
+[...Date()+'GEN2022'].map(c=>R(S[3]^=c.charCodeAt()*23130));
 W=5000;as=5/32;
 
 dbox=({x,y})=>min(.49-abs(x-.5),.44*as-abs(y-.5*as));
