@@ -28,18 +28,10 @@
   <body>
     <div class="wrapper">
       <header>
-        <div id="logo"><script>
-          const truchet = (x,y,o,s,r=1.5) => `M${x},${y+s} c${s-r},0,${s},${o*r},${s},${s*o} m${s},${-s*o} c${r-s},0,${-s},${-r*o},${-s},${-s*o}`;
-          const tiling = s => Array(160).fill().map((v,i) => truchet(2*s*(i&31),2*s*(i>>5),Math.random()<.5?-1:1,s)).join(' ');
-          document.write(`<a href="{{ '/' | relative_url }}">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 40" style="font-size: 1.25em; font-weight: bold">
-            <path d="${tiling(6)}" fill="none" stroke="#fff" stroke-width="1" />
-            <text text-anchor="middle" x="128" y="30" fill="#none" stroke="#fff" stroke-width="2">GENUARY2022</text>
-            <text text-anchor="middle" x="128" y="30" fill="#023">GENUARY2022</text>
-            <path d="${tiling(4)}" fill="none" stroke="#fff" stroke-width="0.25" />
-            <text text-anchor="middle" x="128" y="30" fill="#0238">GENUARY2022</text>
-            </svg></a>`);
-          </script></div>
+        <div id="logo">
+          <img id="im" />
+          <script src="logo.js" />
+        </div>
       </header>
            
       <section>

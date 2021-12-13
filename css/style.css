@@ -20,7 +20,7 @@ header, section, footer {
   display:block;
 }
 
-header #logo svg {
+header #logo img {
   width: 100%;
 }
 
