@@ -40,7 +40,7 @@ while (k>0) {
 	} else k--;
 
 }
-document.write(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${W*as|0}" style="font-size: 650; font-weight: bold">
+document.write(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${W*as|0}" style="font-size: 650px; font-weight: bold" >
 	
 	<mask id="M"><text text-anchor="middle" x="${W/2}" y="${W*as*.8|0}" fill="#fff" stroke="#fff" stroke-width="19">GENUARY2022</text></mask>
 
