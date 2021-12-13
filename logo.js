@@ -10,7 +10,7 @@ R=(a=1)=>a*(t=S[3],S[3]=S[2],S[2]=S[1],S[1]=n=S[0],t^=t<<11,S[0]^=(t^t>>>8)^(n>>
 [...Date()+'GEN2022'].map(c=>R(S[3]^=c.charCodeAt()*23130));
 W=5000;as=5/32;
 
-dbox=({x,y})=>min(.49-abs(x-.5),.44*as-abs(y-.5*as));
+dbox=({x,y})=>min(.49-abs(x-.5),.4*as-abs(y-.5*as));
 sf=L(6,(_,[A,B,C,D]=L(4,R))=>(x,y)=>s(A*x+x+2*s(B*y+y+C*T)+D*T));
 r0=R();dt=.003;ww=0.3
 ff=({x,y})=>E(ww,r0,1,sf[0](x*3,y*2)+sf[1](y*2,x*3)+sf[2](x,y)+sf[3](y,x));
@@ -21,7 +21,7 @@ Qh=(q,X,Y,W,f)=>X<q.x+q.w&&X+W>q.x&&Y<q.y+q.w&&Y+W>q.y&&(q.p.some(v=>v.x>=X&&v.x
 
 svg=[`<rect width="${W}" height="${W*as}" stroke="none" fill="#034"/>`];
 B=Q(0,0,1);
-k=999;r=.007;
+k=999;r=.008;
 while (k>0) {
 	q={x:R(),y:R(as)};
 	pp=[]
@@ -40,6 +40,15 @@ while (k>0) {
 	} else k--;
 
 }
+document.write(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${W*as|0}" style="font-size: 650; font-weight: bold">
+	
+	<mask id="M"><text text-anchor="middle" x="${W/2}" y="${W*as*.8|0}" fill="#fff" stroke="#fff" stroke-width="19">GENUARY2022</text></mask>
 
-im.src=`data:image/svg+xml,${encodeURIComponent(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${W*as|0}" style="font-size: 1.25em; font-weight: bold">${svg.join('\n')}<text text-anchor="middle" x="${W/2}" y="${W*as/2|0}" fill="#none" stroke="#fff" stroke-width="2">GENUARY2022</text>
-</svg>`)}`;
+ <text text-anchor="middle" x="${W/2+25}" y="${W*as*.8+25|0}" fill="#000" stroke="#000" stroke-width="35">GENUARY2022</text>
+ <text text-anchor="middle" x="${W/2}" y="${W*as*.8|0}" fill="none" stroke="#fff" stroke-width="35">GENUARY2022</text>
+
+
+	<g mask="url(#M)" >
+	${svg.join('\n')}</g>
+
+</svg>`);
