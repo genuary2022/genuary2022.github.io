@@ -1,0 +1,160 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #034;
+  color:#fff;
+  line-height: 1.45;
+  font-family: Arial, "Helvetica Neue", sans-serif;
+  font-size: 100%; /* Works in conjunction with the font-size of the wrapper */
+}
+
+.wrapper {
+  font-size: 1.5em;
+}
+
+header, section, footer {
+  display:block;
+}
+
+header #logo svg {
+  width: 100%;
+}
+
+section strong { color: #f90; font-weight: bold; }
+section em { color: #9ff; font-style: italic; }
+section code { color: #9ff; font-family: monospace; }
+section a { color: #bef; }
+section b {
+  padding: 0.25em;
+  border: 2px solid #000;
+  font-weight: bold;
+}
+
+section h1 a { color: inherit; text-decoration: none; }
+
+section {
+  box-sizing: border-box;
+  max-width: 35em;
+  margin: 0 auto;
+  padding:1em;
+}
+
+section p {
+  margin: 1em 0;
+}
+
+section hr {
+  margin: 3em 0;
+  border-top: .25em solid #f90;
+  border-bottom: .25em solid #000;
+  border-left: none;
+  border-right: none;
+}
+
+section h1, section h2, section h3, section h4, section h5, section h6 {
+  margin: 2.6em 0 1em;
+  font-size: 1.25em;
+  line-height: 1;
+  font-weight: bold;
+  color: #f90;
+  text-shadow: .0625em .0625em 0 #000;
+}
+
+.today {
+  font-size: 2em;
+  color: #fff;
+  text-shadow: 0 0 0.1em #f90, .0625em .0625em 0 #000;
+}
+
+.today::after {
+  background-color: #f90;
+  color: #000;
+  content: "that's today!";
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 0.4375em;
+  font-weight: normal;
+  margin-left: 2em;
+  padding: .5em .75em;
+  box-shadow: 0.25em 0.5em 0 #000;
+  text-shadow: none;
+}
+
+.credit {
+  font-size: 0.5em;
+}
+.credit a {
+  text-decoration: none;
+}
+
+section h1 {
+    font-size: 2em;
+    text-align: center;
+    margin: 1.5em 0 0.5em;
+}
+
+section h2 {
+    font-size: 1.5em;
+    margin: -1em 0 0;
+    padding: 1em 0 0.25em;
+}
+
+section ul {
+    list-style: disc outside;
+    margin: 1em 0.5em;
+    padding: 0 0.25em;
+}
+
+section ul li {
+  margin: 1em 0;
+}
+
+section pre {
+  background:#023;
+  border: solid 1px #000;
+  border-radius: 0.25em;
+  box-shadow: inset 0 0.25em 1em rgba(0,0,0,0.2);
+  color: #9ff;
+  padding: 1em;
+  text-shadow: 0 0 3px #222, 0 0 10px #9ff;
+  overflow-x: auto;
+  margin-top: 1em;
+  /*white-space: pre-wrap;*/
+}
+
+section pre .cursor {
+  animation: blink 0.7s infinite;
+  border-bottom: solid 2px #9ff;
+  display: inline-block;
+  height: 1.2em;
+  width: 0.4em;
+}
+
+@keyframes blink {
+  0% {opacity: 0.6}
+  20% {opacity: 0.6}
+  100% {opacity: 0}
+}
+
+footer {
+  color: #8AC;
+  font-size: 0.6em;
+  margin: 1em auto 0;
+  max-width: 40em;
+  padding: 1em;
+  text-align: center;
+}
+
+footer a { color: #bef; }
+
+@media (max-width: 640px) {
+  .wrapper {
+    font-size: 1.0em;
+  }
+
+
+}

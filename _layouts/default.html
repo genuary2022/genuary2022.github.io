@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="keywords" content="{{ site.keywords }}">
+    <meta name="theme-color" content="#003344">
+    <link rel="stylesheet" href="{{ '/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="icon" type="image/png" href="/img/favicon.png" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://genuary2021.github.io/">
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}">
+    <meta property="og:description" content="{{ site.description }}">
+    <!-- Meta image URLs need to be absolute -->
+    <meta property="og:image" content="https://genuary2021.github.io/img/genuary-share-image.png">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://genuary2021.github.io/">
+    <meta property="twitter:title" content="{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}">
+    <meta property="twitter:description" content="{{ site.description }}">
+    <meta property="twitter:image" content="https://genuary2021.github.io/img/genuary-share-image.png">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <div id="logo"><script>
+          const truchet = (x,y,o,s,r=1.5) => `M${x},${y+s} c${s-r},0,${s},${o*r},${s},${s*o} m${s},${-s*o} c${r-s},0,${-s},${-r*o},${-s},${-s*o}`;
+          const tiling = s => Array(160).fill().map((v,i) => truchet(2*s*(i&31),2*s*(i>>5),Math.random()<.5?-1:1,s)).join(' ');
+          document.write(`<a href="{{ '/' | relative_url }}">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 40" style="font-size: 1.25em; font-weight: bold">
+            <path d="${tiling(6)}" fill="none" stroke="#fff" stroke-width="1" />
+            <text text-anchor="middle" x="128" y="30" fill="#none" stroke="#fff" stroke-width="2">GENUARY2021</text>
+            <text text-anchor="middle" x="128" y="30" fill="#023">GENUARY2021</text>
+            <path d="${tiling(4)}" fill="none" stroke="#fff" stroke-width="0.25" />
+            <text text-anchor="middle" x="128" y="30" fill="#0238">GENUARY2021</text>
+            </svg></a>`);
+          </script></div>
+      </header>
+           
+      <section>
+
+      {{ content }}
+
+      </section>
+
+      <footer>
+        <p>Privacy Agreement: We agree with your privacy. Also, no cookies. You were never here. We won't tell. Delete your history. Forget who you are. Just participate in #GENUARY2021.</p></footer>
+    </div>
+  </body>
+</html>
