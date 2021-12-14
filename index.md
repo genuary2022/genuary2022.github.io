@@ -30,6 +30,8 @@ Click for the [prompts](prompts) for each day. These are the actual prompts, but
 * Don't get burned out doing dailies. This is supposed to be fun and creative. If you start to resent dailies, or you find that it's stunting you creatively, then ramp down your goals (and time spent) to just what you want to get out of this. Fun? Practicing skills? Learning? Breaking boredom? Getting ideas? It's fine to skip days. If you've been on a streak and only have a few days left, you've got this.
 * There's a prompt for each day, but you can do them in advance (or later!) if it's convenient. No one is here to throw off your schedule.
 
+There's also a [FAQ](faq) with frequently asked questions!
+
 # [THANKS](thanks)
 
 [Big thanks goes out to all these people](thanks) for contributing to GENUARY and generally being awesome.
