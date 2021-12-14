@@ -12,7 +12,7 @@ GENUARY is back! GENUARY is an artificially generated month of time where we bui
 
 It's happening during the month of January 2022, and everybody is invited!
 
-For every 24 hour day within this 744 hour timespan, we have prepared a prompt to base your code art on.
+Over the 744 hours of January, every 24 hours there is a new prompt for your code art.
 
 You don't have to follow the prompt exactly. Or even at all. But, y'know, we put effort into this.
 
