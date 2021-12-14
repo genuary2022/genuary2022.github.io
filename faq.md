@@ -50,3 +50,6 @@ Yes.
 
 [File an issue on our github!](https://github.com/genuary2022/genuary2022.github.io/issues/3)
 
+## I am hardcore and want to draw 10,000 of something by hand is that cool?
+
+Yes. That is very cool.
