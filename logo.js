@@ -1,4 +1,4 @@
-({sin:s,min,max,abs,PI}=Math);
+({sin:s,min,abs,PI}=Math);
 T=PI*2;
 L=(N,f)=>[...Array(N)].map((_,i)=>f(i/N));
 V=(x,y)=>({x,y});
@@ -12,7 +12,7 @@ W=5000;as=5/32;
 
 dbox=({x,y})=>min(.49-abs(x-.5),.4*as-abs(y-.5*as));
 sf=L(6,(_,[A,B,C,D]=L(4,R))=>(x,y)=>s(A*x+x+2*s(B*y+y+C*T)+D*T));
-r0=R();dt=.003;ww=0.3
+r0=R();dt=.003;ww=0.4
 ff=({x,y})=>E(ww,r0,1,sf[0](x*3,y*2)+sf[1](y*2,x*3)+sf[2](x,y)+sf[3](y,x));
 
 Q=(x,y,w)=>({x,y,w,p:[]});
@@ -21,7 +21,7 @@ Qh=(q,X,Y,W,f)=>X<q.x+q.w&&X+W>q.x&&Y<q.y+q.w&&Y+W>q.y&&(q.p.some(v=>v.x>=X&&v.x
 
 svg=[`<rect width="${W}" height="${W*as}" stroke="none" fill="#034"/>`];
 B=Q(0,0,1);
-k=999;r=.008;
+k=999;r=.006+R(.002);
 while (k>0) {
 	q={x:R(),y:R(as)};
 	pp=[]
@@ -35,14 +35,14 @@ while (k>0) {
 		i=0;
 		while(i<pp.length){
 			qq=pp.slice(i,(i+=1+R(9)|0)+1);
-			svg.push(`<path fill="none" stroke="#${'fff.000.f90.35a'.split('.')[R(4)|0]}" stroke-linecap="square" stroke-width="${r*W*.7}" d="M ${qq.map(p=>(Qa(B,p),[p.x*W|0,p.y*W|0])).join(' ')}"/>`);
+			svg.push(`<path stroke="#${'fff.000.f90.35a'.split('.')[R(4)|0]}" d="M ${qq.map(p=>(Qa(B,p),[p.x*W|0,p.y*W|0])).join(' ')}"/>`);
 		}
 	} else k--;
 }
 document.write(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${W*as|0}" style="font-size: 650px; font-weight: bold">
 	<mask id="M"><text text-anchor="middle" x="${W/2}" y="${W*as*.8|0}" fill="#fff" stroke="#fff" stroke-width="19">GENUARY2022</text></mask>
-	<text text-anchor="middle" x="${W/2+25}" y="${W*as*.8+25|0}" fill="#000" stroke="#0008" stroke-width="35">GENUARY2022</text>
+	<text text-anchor="middle" x="${W/2+25}" y="${W*as*.8+25|0}" fill="#000" stroke="#000" stroke-width="35">GENUARY2022</text>
 	<text text-anchor="middle" x="${W/2}" y="${W*as*.8|0}" fill="none" stroke="#fff" stroke-width="35">GENUARY2022</text>
-	<g mask="url(#M)">
+	<g mask="url(#M)" fill="none" stroke-linecap="square" stroke-width="${r*W*(.7+R(.2))}">
 	${svg.join('\n')}</g>
 </svg>`);
