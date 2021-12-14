@@ -1,148 +1,148 @@
 ```
-26 Draw 10,000 of something.
-18 Self portrait
-18 Destroy a square
+26 Draw 10,000 of something. (Michael Lowe)
+18 Self portrait (Michael Lowe)
+18 Destroy a square (thomas)
 16 #2E294E, #541388, #F1E9DA, #FFD400, #D90368 (cosmic space palette by Michael Lowe)
-14 Something you'd never make
-13 Sol LeWitt Wall Drawing
-13 Organic looking output using only rectangular shapes
-13 Combine two (or more) of your pieces from previous days to make a new piece.
-12 Use text / typography
-12 Sand
-12 Negative space
-12 Airport carpet
-11 create your own pseudo-random number generator and visually check the results
-11 Design the rug for your bedroom
-11 Architecture
-11 3 colors
-10 perspective
-10 No computer
-10 Machine learning, wrong answers only
-10 Color gradients gone wrong
- 9 The next next Fidenza
- 9 Space
- 9 Dithering
- 8 random(255)
- 8 VHS
- 8 Triangles!
- 8 Trade styles with a friend
- 8 Single curve only
- 8 Packing ( squares,circles, any shape... )
- 8 Make something that will look completely different in a year.
- 8 Make a sea of shapes
- 8 Isometric perspective
- 8 Abstract vegetation
- 8 80x800
- 7 Take one of your previous works and ruin it // degenerate degenerative Friday: deliberately break one of your previous images.
- 7 Sample colors from a photo you love
- 7 Polyrhythm (loops that do things at different intervals)
- 7 Generate some text (see http://tracery.io/)
- 6 shadows
- 6 plants
- 6 Trees.. so many trees
- 6 Something mirrored in the x- and y-axis
- 6 Replicate a pattern from nature.
- 6 Mandala
- 6 Like Mondriaan
- 6 Light
- 6 If I was a butterfly, this would be my pattern
- 6 Black and white
- 6 Atypical rainbow
- 6 8bit computer graphics (ZX Spectrum, Atari, C64, etc)
- 5 circles, wrong answers only
- 5 alternative pixels
- 5 The next Fidenza
- 5 Something tile-able
- 5 Something cultural: e.g., patterns you'd find on the columns of a temple, tiles on roads, something based on an art style that is local, local textile/loom patterns, could be based on a culture other than your own too
- 5 Script of an imaginary language
- 5 Put a sin() in it
- 5 Make something with 2022 items/iterations
- 5 Lissajous
- 5 LEGO
- 5 Infinite
- 5 Glitch Art
- 5 Design a screensaver for Windows 95
- 5 Depth of Field
- 5 Deferred gratification
- 5 ASCII
- 4 sin() on the dotted line
- 4 simulate an analogue printing method
- 4 sample a color palette from your favorite movie/album cover
- 4 optical illusion
- 4 no fill
- 4 Zentangles
- 4 Whatever you did yesterday, do the opposite
- 4 Use this photo as input: [TBD]
- 4 Typo
- 4 Spaghetti and metaballs / Meat-a-balls
- 4 Something impossible
- 4 Reflection of a reflection
- 4 Raindrops
- 4 Rainbow on black
- 4 Only use an ellipse
- 4 Only negative parameters
- 4 Mistakes. Only mistakes.
- 4 Make a PFP generator
- 4 Imaginary music notation
- 4 Harmonics
- 4 Half empty. Half full.
- 4 Gravity
- 4 Draw infinity
- 4 Draw a spiral in a complicated way
- 4 Can't erase the frame
- 4 Bonus day: continue working on that one prompt from the other day, you know which one. make it count
- 4 2022 colors
- 3 pick a https://twitter.com/GenerativeBot/ prompt and use that
- 3 make a sketch adapting to the current daytime
- 3 a square for each triangle
- 3 You got bitten by a radioactive photocopy machine. Describe your superpower using code.
- 3 Use (part of) a TBD dataset
- 3 Tell a story
- 3 Something alive
- 3 Single lines only without path forming (so no endpoints touching)
- 3 Rocks
- 3 Respond to sound
- 3 Recreate something you saw in nature
- 3 Radial Symmetry
- 3 Press 'a' to jump
- 3 No geometry
- 3 No edges/boundaries
- 3 Moving
- 3 Make a clock (or other mechanism of keeping time)
- 3 Fonts
- 3 Empty space
- 3 Draw the wind
- 3 Decorate a shape.
- 3 Crayon
- 3 Circles of n-gons
- 2 repetition
- 2 chaos
- 2 What's big is actually small.
- 2 Wavy Rectangles
- 2 Water
- 2 Spandex and glitter
- 2 Retro screensavers
- 2 Only use/show points
- 2 Layers
- 2 It just won't work
- 2 Interference
- 2 God rays
- 2 Design a Fictional GUI
- 2 As if there's no tomorrow
- 2 Air
- 2 A volatile attraction.
- 2 A quiet evening in space.
- 1 plug in some data from an API
- 1 endless loop / gif / animation
- 1 draw a chessboard
- 1 Your breakfast
- 1 Yayoi Kusama
- 1 The darkness within.
- 1 Steganography
- 1 One
- 1 New Mac OS default wallpaper
- 1 Leakage.
- 1 Keep time
- 1 Create a wallpaper pattern to use in your library
+14 Something you'd never make (Devi)
+13 Sol LeWitt Wall Drawing (Roni)
+13 Organic looking output using only rectangular shapes (Bart Simons)
+13 Combine two (or more) of your pieces from previous days to make a new piece. (Michael Lowe)
+12 Use text / typography (Piter)
+12 Sand (thomas)
+12 Negative space (Michael Lowe)
+12 Airport carpet (Quag)
+11 create your own pseudo-random number generator and visually check the results (Quag)
+11 Design the rug for your bedroom (Stefano Contiero)
+11 Architecture (Lionel Radisson)
+11 3 colors (Deniz)
+10 perspective (Jos Vromans)
+10 No computer (Lionel Radisson)
+10 Machine learning, wrong answers only (Roni)
+10 Color gradients gone wrong (Quag)
+ 9 The next next Fidenza (Alexis)
+ 9 Space (Lionel Radisson)
+ 9 Dithering (Anna Lucia)
+ 8 random(255) (Roni)
+ 8 VHS (generetame)
+ 8 Triangles! (Michael Lowe)
+ 8 Trade styles with a friend (Alex Naka)
+ 8 Single curve only (Bruce Holmer)
+ 8 Packing ( squares,circles, any shape... ) (RVig)
+ 8 Make something that will look completely different in a year. (Michael Lowe)
+ 8 Make a sea of shapes (Sabin T)
+ 8 Isometric perspective (Chris Ried)
+ 8 Abstract vegetation (Louis-André Labadie)
+ 8 80x800 (Ben Kovach)
+ 7 Take one of your previous works and ruin it // degenerate degenerative Friday: deliberately break one of your previous images. (Alex Naka)
+ 7 Sample colors from a photo you love (Yazid)
+ 7 Polyrhythm (loops that do things at different intervals) (Ryan)
+ 7 Generate some text (see http://tracery.io/) (Louis-André Labadie)
+ 6 shadows (Luca)
+ 6 plants (Lionel Radisson)
+ 6 Trees.. so many trees (Quag)
+ 6 Something mirrored in the x- and y-axis (Yazid)
+ 6 Replicate a pattern from nature. (Michael Lowe)
+ 6 Mandala (Alex Naka)
+ 6 Like Mondriaan (Jos Vromans)
+ 6 Light (Lionel Radisson)
+ 6 If I was a butterfly, this would be my pattern (Jos Vromans)
+ 6 Black and white (Lionel Radisson)
+ 6 Atypical rainbow (Licia He)
+ 6 8bit computer graphics (ZX Spectrum, Atari, C64, etc) (generetame)
+ 5 circles, wrong answers only (Lionel Radisson)
+ 5 alternative pixels (Deniz)
+ 5 The next Fidenza (Alexis)
+ 5 Something tile-able (thomas)
+ 5 Something cultural: e.g., patterns you'd find on the columns of a temple, tiles on roads, something based on an art style that is local, local textile/loom patterns, could be based on a culture other than your own too (Sabin T)
+ 5 Script of an imaginary language (Devi)
+ 5 Put a sin() in it (Yazid)
+ 5 Make something with 2022 items/iterations (Yann Le Gall)
+ 5 Lissajous (Anna Lucia)
+ 5 LEGO (Alexis)
+ 5 Infinite (Anna Lucia)
+ 5 Glitch Art (generetame)
+ 5 Design a screensaver for Windows 95 (Yazid)
+ 5 Depth of Field (generetame)
+ 5 Deferred gratification (Marc Edwards)
+ 5 ASCII (Ben Kovach)
+ 4 sin() on the dotted line (Marc Edwards)
+ 4 simulate an analogue printing method (thomas)
+ 4 sample a color palette from your favorite movie/album cover (Luca)
+ 4 optical illusion (Deniz)
+ 4 no fill (Lionel Radisson)
+ 4 Zentangles (Devi)
+ 4 Whatever you did yesterday, do the opposite (Alexis)
+ 4 Use this photo as input: [TBD] (Piter)
+ 4 Typo (Licia He)
+ 4 Spaghetti and metaballs / Meat-a-balls (Marc Edwards/Ben Kovach)
+ 4 Something impossible (Ben Kovach)
+ 4 Reflection of a reflection (Ryan)
+ 4 Raindrops (Quag)
+ 4 Rainbow on black (Yazid)
+ 4 Only use an ellipse (Jonathan Barbeau)
+ 4 Only negative parameters (Alexis)
+ 4 Mistakes. Only mistakes. (Marc Edwards)
+ 4 Make a PFP generator (Piter)
+ 4 Imaginary music notation (Ben Kovach)
+ 4 Harmonics (Alexis)
+ 4 Half empty. Half full. (Marc Edwards)
+ 4 Gravity (Louis-André Labadie)
+ 4 Draw infinity (Andrea Diotallevi)
+ 4 Draw a spiral in a complicated way (Piter)
+ 4 Can't erase the frame (Alexis)
+ 4 Bonus day: continue working on that one prompt from the other day, you know which one. make it count (Piter)
+ 4 2022 colors (generetame)
+ 3 pick a https://twitter.com/GenerativeBot/ prompt and use that (Piter)
+ 3 make a sketch adapting to the current daytime (Luca)
+ 3 a square for each triangle (Jos Vromans)
+ 3 You got bitten by a radioactive photocopy machine. Describe your superpower using code. (Piter)
+ 3 Use (part of) a TBD dataset (Bart Simons)
+ 3 Tell a story (Roni)
+ 3 Something alive (Lionel Radisson)
+ 3 Single lines only without path forming (so no endpoints touching) (Jos Vromans)
+ 3 Rocks (Lionel Radisson)
+ 3 Respond to sound (Anna Lucia)
+ 3 Recreate something you saw in nature (Yazid)
+ 3 Radial Symmetry (Michael Lowe)
+ 3 Press 'a' to jump (Ryan)
+ 3 No geometry (Ben Kovach)
+ 3 No edges/boundaries (Islam Adel)
+ 3 Moving (Lionel Radisson)
+ 3 Make a clock (or other mechanism of keeping time) (Ryan)
+ 3 Fonts (generetame)
+ 3 Empty space (Lionel Radisson)
+ 3 Draw the wind (Andrea Diotallevi)
+ 3 Decorate a shape. (Marc Edwards)
+ 3 Crayon (Licia He)
+ 3 Circles of n-gons (Jos Vromans)
+ 2 repetition (Deniz)
+ 2 chaos (Deniz)
+ 2 What's big is actually small. (Marc Edwards)
+ 2 Wavy Rectangles (Piter)
+ 2 Water (thomas)
+ 2 Spandex and glitter (Marc Edwards)
+ 2 Retro screensavers (Anna Lucia)
+ 2 Only use/show points (Bart Simons)
+ 2 Layers (Lionel Radisson)
+ 2 It just won't work (Quag)
+ 2 Interference (Quag)
+ 2 God rays (Quag)
+ 2 Design a Fictional GUI (Yazid)
+ 2 As if there's no tomorrow (Licia He)
+ 2 Air (thomas)
+ 2 A volatile attraction. (Marc Edwards)
+ 2 A quiet evening in space. (Marc Edwards)
+ 1 plug in some data from an API (Luca)
+ 1 endless loop / gif / animation (Islam Adel)
+ 1 draw a chessboard (Andrea Diotallevi)
+ 1 Your breakfast (Yazid)
+ 1 Yayoi Kusama (Anna Lucia)
+ 1 The darkness within. (Marc Edwards)
+ 1 Steganography (Alex Naka)
+ 1 One (Roni)
+ 1 New Mac OS default wallpaper (Alexis)
+ 1 Leakage. (Marc Edwards)
+ 1 Keep time (Quag)
+ 1 Create a wallpaper pattern to use in your library (Stefano Contiero)
  1 :cat:
  ```
