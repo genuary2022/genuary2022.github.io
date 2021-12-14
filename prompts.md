@@ -1,6 +1,6 @@
 # PROMPTS
 
-## JAN.1 {#jan1}
+## JAN.1 <span class="credit">(credit: [Michael Lowe](https://www.instagram.com/mjrlowe))</span> {#jan1}
 
 Draw 10,000 of something.
 
