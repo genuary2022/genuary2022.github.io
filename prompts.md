@@ -106,7 +106,11 @@ Airport carpet
 
 ## JAN.27 {#jan27}
 
-#2E294E, #541388, #F1E9DA, #FFD400, #D90368
+<b style="background-color: #2E294E">#2E294E</b>
+<b style="background-color: #541388">#541388</b>
+<b style="background-color: #F1E9DA; color:#161616">#F1E9DA</b>
+<b style="background-color: #FFD400">#FFD400</b>
+<b style="background-color: #D90368">#D90368</b>
 
 ## JAN.28 {#jan28}
 
