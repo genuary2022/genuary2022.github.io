@@ -8,7 +8,7 @@
 
 # GENUARY 2022
 
-GENUARY is back!! GENUARY is an artificially generated month of time where we build code that makes beautiful things.
+GENUARY is back! GENUARY is an artificially generated month of time where we build code that makes beautiful things.
 
 It happens during the month of January 2022, and everybody is invited!
 
@@ -16,7 +16,7 @@ For every 24 hour day within this 744 hour timespan, we have prepared a prompt t
 
 You don't have to follow the prompt exactly. Or even at all. But, y'know, we put effort into this.
 
-You can use any language, framework or medium, on any planet. 
+You can use any language, framework or medium, on any planet.
 
 Share your work and tag it with **#genuary** and **#genuary2022**.
 

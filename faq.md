@@ -1,30 +1,30 @@
 # FAQ
 
-## what is Genuary
+## What is Genuary?
 
 Like a good copy writer, I answered this question in the very first paragraph of this site's [home page](/).
 
-## do I need to follow the prompts strictly
+## Do I need to follow the prompts strictly?
 
 No.
 
-## do I need to post every day
+## Do I need to post every day?
 
 No.
 
-## do I need to do the correct prompt on the correct day
+## Do I need to do the correct prompt on the correct day?
 
 No.
 
-## does it need to be X
+## Does it need to be X?
 
 No.
 
-## can I ... ?
+## Can I…?
 
 Yes. But please follow the Geneva Conventions.
 
-## what if I don't understand a prompt
+## What if I don't understand a prompt?
 
 Try to give it the best inspiration that ends up with the coolest art piece. Write about your interpretation and how it reflects in your piece. Look at other people's artworks for inspiration and see how they interpreted the prompt. 
 
@@ -32,7 +32,7 @@ Talk to people and discuss. Really do this, because other people are one of the 
 
 If something needs extra assumptions and you're not sure, just pick some that inspire you most creatively. Then write about which assumptions you picked and why, so that other people can either use the same or choose their own. 
 
-## do I need to make the thing on the day when the prompt is
+## Do I need to make the thing on the day when the prompt is?
 
 It really depends on the kind of challenge you want to set yourself.
 
@@ -42,6 +42,6 @@ If you come up with a different challenge using these prompts, by all means go f
 
 If you rather sort of try to do a prompt maybe, then do that!
 
-## can I use code that I wrote previously
+## Can I use code that I wrote previously?
 
 Yes.
