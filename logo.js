@@ -38,17 +38,11 @@ while (k>0) {
 			svg.push(`<path fill="none" stroke="#${'fff.000.f90.35a'.split('.')[R(4)|0]}" stroke-linecap="square" stroke-width="${r*W*.7}" d="M ${qq.map(p=>(Qa(B,p),[p.x*W|0,p.y*W|0])).join(' ')}"/>`);
 		}
 	} else k--;
-
 }
-document.write(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${W*as|0}" style="font-size: 650px; font-weight: bold" >
-	
+document.write(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${W*as|0}" style="font-size: 650px; font-weight: bold">
 	<mask id="M"><text text-anchor="middle" x="${W/2}" y="${W*as*.8|0}" fill="#fff" stroke="#fff" stroke-width="19">GENUARY2022</text></mask>
-
- <text text-anchor="middle" x="${W/2+25}" y="${W*as*.8+25|0}" fill="#000" stroke="#0008" stroke-width="35">GENUARY2022</text>
- <text text-anchor="middle" x="${W/2}" y="${W*as*.8|0}" fill="none" stroke="#fff" stroke-width="35">GENUARY2022</text>
-
-
-	<g mask="url(#M)" >
+	<text text-anchor="middle" x="${W/2+25}" y="${W*as*.8+25|0}" fill="#000" stroke="#0008" stroke-width="35">GENUARY2022</text>
+	<text text-anchor="middle" x="${W/2}" y="${W*as*.8|0}" fill="none" stroke="#fff" stroke-width="35">GENUARY2022</text>
+	<g mask="url(#M)">
 	${svg.join('\n')}</g>
-
 </svg>`);
