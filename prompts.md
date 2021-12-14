@@ -4,17 +4,17 @@
 
 Draw 10,000 of something.
 
-[John Green drawing 170,000 circles](https://www.youtube.com/watch?v=ILMEVnVD8m8)
+[John Green drawing 170,000 circles](https://www.youtube.com/watch?v=ILMEVnVD8m8)  
 
 ## JAN.2 {#jan2}
 
 Dithering.
 
-[Code Golf: Dither a Grayscale Image](https://codegolf.stackexchange.com/questions/26554/dither-a-grayscale-image)
-[The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
-[Joel Yliluoma's arbitrary-palette positional dithering algorithm](https://bisqwit.iki.fi/story/howto/dither/jy/)
-[Free blue noise textures](http://momentsingraphics.de/BlueNoise.html)
-[DHALF.TXT](http://web.archive.org/web/20190316064436/http://www.efg2.com/Lab/Library/ImageProcessing/DHALF.TXT)
+[Code Golf: Dither a Grayscale Image](https://codegolf.stackexchange.com/questions/26554/dither-a-grayscale-image)  
+[The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)  
+[Joel Yliluoma's arbitrary-palette positional dithering algorithm](https://bisqwit.iki.fi/story/howto/dither/jy/)  
+[Free blue noise textures](http://momentsingraphics.de/BlueNoise.html)  
+[DHALF.TXT](http://web.archive.org/web/20190316064436/http://www.efg2.com/Lab/Library/ImageProcessing/DHALF.TXT)  
 
 ## JAN.3 {#jan3}
 
@@ -24,7 +24,7 @@ Space.
 
 The next next Fidenza.
 
-[Tyler Hobbs' Fidenza](https://tylerxhobbs.com/fidenza)
+[Tyler Hobbs' Fidenza](https://tylerxhobbs.com/fidenza)  
 
 ## JAN.5 {#jan5}
 
@@ -38,10 +38,10 @@ Trade styles with a friend.
 
 Sol LeWitt Wall Drawing.
 
-[Sol LeWitt: A Wall Drawing Retrospective](https://massmoca.org/sol-lewitt/)
-[Here Are the Instructions for Sol LeWitt’s 1971 Wall Drawing for the School of the MFA Boston](https://observer.com/2012/10/here-are-the-instructions-for-sol-lewitts-1971-wall-drawing-for-the-school-of-the-mfa-boston/)
-[Why are Sol LeWitt’s wall drawings so influential?](https://publicdelivery.org/sol-lewitt-wall-drawings/)
-[Sol Lewitt-Wall Painting 118](https://illmindofryza1.wordpress.com/2016/08/17/sol-lewitt-wall-painting-118/)
+[Sol LeWitt: A Wall Drawing Retrospective](https://massmoca.org/sol-lewitt/)  
+[Here Are the Instructions for Sol LeWitt’s 1971 Wall Drawing for the School of the MFA Boston](https://observer.com/2012/10/here-are-the-instructions-for-sol-lewitts-1971-wall-drawing-for-the-school-of-the-mfa-boston/)  
+[Why are Sol LeWitt’s wall drawings so influential?](https://publicdelivery.org/sol-lewitt-wall-drawings/)  
+[Sol Lewitt-Wall Painting 118](https://illmindofryza1.wordpress.com/2016/08/17/sol-lewitt-wall-painting-118/)  
 
 ## JAN.8 {#jan8}
 
@@ -67,7 +67,7 @@ Packing (squares, circles, any shape…)
 
 80x800.
 
-[#80x800](https://twitter.com/hashtag/800x80)
+[#80x800](https://twitter.com/hashtag/800x80)  
 
 ## JAN.14 {#jan14}
 
@@ -121,9 +121,9 @@ Perspective.
 
 Airport carpet.
 
-[Google image search](https://www.google.com/search?q=airport+carpet&tbm=isch)
-[Bing image search](https://www.bing.com/images/search?q=airport+carpet)
-[Portland International Airport carpet](https://en.wikipedia.org/wiki/Portland_International_Airport_carpet)
+[Google image search](https://www.google.com/search?q=airport+carpet&tbm=isch)  
+[Bing image search](https://www.bing.com/images/search?q=airport+carpet)  
+[Portland International Airport carpet](https://en.wikipedia.org/wiki/Portland_International_Airport_carpet)  
 
 ## JAN.27 {#jan27}
 
