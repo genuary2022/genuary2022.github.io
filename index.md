@@ -22,7 +22,9 @@ Share your work and tag it with **#genuary** and **#genuary2022**.
 
 # [PROMPTS](prompts)
 
-Click for the [prompts](prompts) for each day. These are the actual prompts, but you're only supposed to do them on that particular day. Though if you decided to cheat and implement all these prompts before the start of January 2022, that would actually be pretty impressive. Share them too!
+Click for the [prompts](prompts) for each day. These are the actual prompts, but you're only supposed to do them on that particular day.
+
+Cheating is encouraged. Feel free to implement all these prompts before January. We will be seriously impressed if you do! Please share them!
 
 # TIPS & TRICKS
 
