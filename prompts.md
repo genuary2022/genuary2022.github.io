@@ -156,3 +156,18 @@ Negative space.
 # [IDEAS](https://github.com/genuary2022/genuary2022.github.io/issues/3)
 
 Came up with a brilliant idea for next year's prompt? [File an issue on our github!](https://github.com/genuary2022/genuary2022.github.io/issues/3)
+
+<script>
+    function setHighlight () {
+        const now = new Date();
+        // The if statement makes sure we only highlight days in January 2022
+        if (now.getFullYear() !== 2022 || now.getMonth() !== 0) return;
+        const hash = "#jan" + now.getDate();
+        if (!document.location.hash) document.location = hash;
+        document.querySelector(hash).classList.add("today");
+    }
+
+    // Make sure we aren't trying to do this before
+    // the browser has loaded the whole page
+    addEventListener('load', setHighlight);
+</script>
