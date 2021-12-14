@@ -22,14 +22,14 @@ Thanks go out to these wonderful people for contributing prompts, website help, 
 * [Luca](https://twitter.com/ioan1x)
 * Marc Edwards 
 * [Michael Lowe](https://twitter.com/mrjlowe)
-* [Piter](https://twitter.com/piterpasma)
+* [Piter Pasma](https://twitter.com/piterpasma)
 * Quag 
 * [Roni](https://twitter.com/KaufmanRoni)
 * [Richard Vigniel](https://twitter.com/rvig_art)
 * [Ryan](https://twitter.com/rwstruhl)
 * [Sabin T](https://twitter.com/artbysabin)
 * [Stefano Contiero](https://twitter.com/stefan_contiero)
-* [thomas](https://twitter.com/thomasp85)
+* [Thomas Lin Pedersen](https://twitter.com/thomasp85)
 * [Yann Le Gall](https://twitter.com/yann_LeGall)
 * [Yazid](https://twitter.com/yazid)
 
