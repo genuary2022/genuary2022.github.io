@@ -10,7 +10,7 @@
 
 GENUARY is back! GENUARY is an artificially generated month of time where we build code that makes beautiful things.
 
-It happens during the month of January 2022, and everybody is invited!
+It's happening during the month of January 2022, and everybody is invited!
 
 For every 24 hour day within this 744 hour timespan, we have prepared a prompt to base your code art on.
 
