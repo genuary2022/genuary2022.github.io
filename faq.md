@@ -1,6 +1,6 @@
 # FAQ
 
-## What is Genuary?
+## What is GENUARY?
 
 Like a good copy writer, I answered this question in the very first paragraph of this site's [home page](/).
 
@@ -45,3 +45,8 @@ If you rather sort of try to do a prompt maybe, then do that!
 ## Can I use code that I wrote previously?
 
 Yes.
+
+## I've got a brilliant idea for a prompt for next year.
+
+[File an issue on our github!](https://github.com/genuary2022/genuary2022.github.io/issues/3)
+
