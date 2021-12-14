@@ -11,7 +11,7 @@ Thanks go out to these wonderful people for contributing prompts, website help, 
 * [Bruce Holmer](https://twitter.com/bruceHolmer)
 * [Chris Ried](https://www.twitter.com/generativecoll)
 * [Deniz](https://twitter.com/ojelibalon)
-* [Devi](https://twitter.com/deviparikh)
+* [Devi Parikh](https://twitter.com/deviparikh)
 * [GenerateMe](https://twitter.com/generateme_blog)
 * [Islam Adel](https://twitter.com/j_maffe)
 * [Jonathan Barbeau](https://twitter.com/jbarbeau_Art)
