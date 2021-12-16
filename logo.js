@@ -39,10 +39,11 @@ while (k>0) {
 		}
 	} else k--;
 }
+U=(x,y,f,s,w)=>`<text text-anchor="middle" x="${W/2+x}" y="${W*as*.8+y|0}" fill="${f}" stroke="#${s}" stroke-width="${w}">GENUARY2022</text>`;
 document.write(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${W*as|0}" style="font-size: 650px; font-weight: bold">
-	<mask id="M"><text text-anchor="middle" x="${W/2}" y="${W*as*.8|0}" fill="#fff" stroke="#fff" stroke-width="19">GENUARY2022</text></mask>
-	<text text-anchor="middle" x="${W/2+25}" y="${W*as*.8+25|0}" fill="#000" stroke="#000" stroke-width="35">GENUARY2022</text>
-	<text text-anchor="middle" x="${W/2}" y="${W*as*.8|0}" fill="none" stroke="#fff" stroke-width="35">GENUARY2022</text>
+	<mask id="M">${U(0,0,'#fff','fff',19)}</mask>
+	${U(25,25,'#000','000',35)}	
+	${U(0,0,'none','fff',35)}	
 	<g mask="url(#M)" fill="none" stroke-linecap="square" stroke-width="${r*W*(.7+R(.2))}">
 	${svg.join('\n')}</g>
 </svg>`);
