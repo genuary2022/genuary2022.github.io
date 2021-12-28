@@ -5,6 +5,7 @@
 Draw 10,000 of something.
 
 [John Green drawing 170,000 circles](https://www.youtube.com/watch?v=ILMEVnVD8m8)  
+{:.info}
 
 ## JAN.2 <span class="credit">(credit: [Anna Lucia](https://twitter.com/annaluciacodes))</span> {#jan2}
 
@@ -15,7 +16,7 @@ Dithering.
 [Joel Yliluoma's arbitrary-palette positional dithering algorithm](https://bisqwit.iki.fi/story/howto/dither/jy/)  
 [Free blue noise textures](http://momentsingraphics.de/BlueNoise.html)  
 [DHALF.TXT](http://web.archive.org/web/20190316064436/http://www.efg2.com/Lab/Library/ImageProcessing/DHALF.TXT)  
-{:.nameofclass}
+{:.info}
 
 ## JAN.3 <span class="credit">(credit: [Lionel Radisson](https://twitter.com/makIO135/))</span> {#jan3}
 
@@ -26,6 +27,7 @@ Space.
 The next next Fidenza.
 
 [Tyler Hobbs' Fidenza](https://tylerxhobbs.com/fidenza)  
+{:.info}
 
 ## JAN.5 <span class="credit">(credit: [Thomas Lin Pedersen](https://twitter.com/thomasp85))</span> {#jan5}
 
@@ -43,6 +45,7 @@ Sol LeWitt Wall Drawing.
 [Here Are the Instructions for Sol LeWitt’s 1971 Wall Drawing for the School of the MFA Boston](https://observer.com/2012/10/here-are-the-instructions-for-sol-lewitts-1971-wall-drawing-for-the-school-of-the-mfa-boston/)  
 [Why are Sol LeWitt’s wall drawings so influential?](https://publicdelivery.org/sol-lewitt-wall-drawings/)  
 [Sol Lewitt-Wall Painting 118](https://illmindofryza1.wordpress.com/2016/08/17/sol-lewitt-wall-painting-118/)  
+{:.info}
 
 ## JAN.8 <span class="credit">(credit: [Bruce Holmer](https://twitter.com/bruceHolmer))</span> {#jan8}
 
@@ -69,6 +72,7 @@ Packing (squares, circles, any shape…)
 80x800.
 
 [#80x800](https://twitter.com/hashtag/800x80)  
+{:.info}
 
 ## JAN.14 <span class="credit">(credit: [Devi Parikh](https://twitter.com/deviparikh))</span> {#jan14}
 
@@ -125,6 +129,7 @@ Airport carpet.
 [Google image search](https://www.google.com/search?q=airport+carpet&tbm=isch)  
 [Bing image search](https://www.bing.com/images/search?q=airport+carpet)  
 [Portland International Airport carpet](https://en.wikipedia.org/wiki/Portland_International_Airport_carpet)  
+{:.info}
 
 ## JAN.27 <span class="credit">(credit: [Michael Lowe](https://twitter.com/mrjlowe))</span> {#jan27}
 

@@ -28,6 +28,7 @@ section strong { color: #f90; font-weight: bold; }
 section em { color: #9ff; font-style: italic; }
 section code { color: #9ff; font-family: monospace; }
 section a { color: #bef; }
+.info a { color: #35a; font-size: 0.75em; }
 section b {
   padding: 0.25em;
   border: 2px solid #000;
