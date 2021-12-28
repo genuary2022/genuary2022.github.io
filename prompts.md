@@ -167,7 +167,7 @@ Came up with a brilliant idea for next year's prompt? [File an issue on our gith
     function setHighlight () {
         const now = new Date();
         // The if statement makes sure we only highlight days in January 2022
-        if (now.getFullYear() !== 2022 || now.getMonth() !== 0) return;
+        // if (now.getFullYear() !== 2022 || now.getMonth() !== 0) return;
         const hash = "#jan" + now.getDate();
         if (!document.location.hash) document.location = hash;
         document.querySelector(hash).classList.add("today");
