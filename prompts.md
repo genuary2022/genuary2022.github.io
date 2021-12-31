@@ -129,6 +129,7 @@ Airport carpet.
 [Google image search](https://www.google.com/search?q=airport+carpet&tbm=isch)  
 [Bing image search](https://www.bing.com/images/search?q=airport+carpet)  
 [Portland International Airport carpet](https://en.wikipedia.org/wiki/Portland_International_Airport_carpet)  
+[Hotel carpets photographed by Bill Young](https://www.instagram.com/myhotelcarpet/)
 {:.info}
 
 ## JAN.27 <span class="credit">(credit: [Michael Lowe](https://twitter.com/mrjlowe))</span> {#jan27}
@@ -161,7 +162,7 @@ Negative space.
 
 # [IDEAS](https://github.com/genuary2022/genuary2022.github.io/issues/3)
 
-Came up with a brilliant idea for next year's prompt? [File an issue on our github!](https://github.com/genuary2022/genuary2022.github.io/issues/3)
+Came up with a brilliant idea for next year's prompt? Add it to [this issue](https://github.com/genuary2022/genuary2022.github.io/issues/3) on our Github!
 
 <script>
     function setHighlight () {
