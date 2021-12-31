@@ -46,9 +46,9 @@ If you rather sort of try to do a prompt maybe, then do that!
 
 Yes.
 
-## I've got a brilliant idea for a prompt for next year.
+## I've got a brilliant idea for a prompt for next year. Where can I suggest it?
 
-[File an issue on our github!](https://github.com/genuary2022/genuary2022.github.io/issues/3)
+Add it to [this issue](https://github.com/genuary2022/genuary2022.github.io/issues/3) on our Github!
 
 ## I am hardcore and want to draw 10,000 of something by hand is that cool?
 
