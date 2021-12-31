@@ -162,7 +162,7 @@ Negative space.
 
 # [IDEAS](https://github.com/genuary2022/genuary2022.github.io/issues/3)
 
-Came up with a brilliant idea for next year's prompt? [File an issue on our github!](https://github.com/genuary2022/genuary2022.github.io/issues/3)
+Came up with a brilliant idea for next year's prompt? Add it to [this issue](https://github.com/genuary2022/genuary2022.github.io/issues/3) on our Github!
 
 <script>
     function setHighlight () {
