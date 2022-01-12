@@ -1,6 +1,6 @@
 # PROMPTS
 
-## JAN.1 <span class="credit">(credit: [Michael Lowe](https://twitter.com/mrjlowe))</span> {#jan1}
+## JAN.1 <span class="credit">(credit: [Michael Lowe](https://twitter.com/mjrlowe))</span> {#jan1}
 
 Draw 10,000 of something.
 
@@ -102,11 +102,11 @@ Use text/typography.
 
 Make a sea of shapes.
 
-## JAN.21 <span class="credit">(credit: [Michael Lowe](https://twitter.com/mrjlowe))</span> {#jan21}
+## JAN.21 <span class="credit">(credit: [Michael Lowe](https://twitter.com/mjrlowe))</span> {#jan21}
 
 Combine two (or more) of your pieces from previous days to make a new piece.
 
-## JAN.22 <span class="credit">(credit: [Michael Lowe](https://twitter.com/mrjlowe))</span> {#jan22}
+## JAN.22 <span class="credit">(credit: [Michael Lowe](https://twitter.com/mjrlowe))</span> {#jan22}
 
 Make something that will look completely different in a year.
 
@@ -129,9 +129,10 @@ Airport carpet.
 [Google image search](https://www.google.com/search?q=airport+carpet&tbm=isch)  
 [Bing image search](https://www.bing.com/images/search?q=airport+carpet)  
 [Portland International Airport carpet](https://en.wikipedia.org/wiki/Portland_International_Airport_carpet)  
+[Hotel carpets photographed by Bill Young](https://www.instagram.com/myhotelcarpet/)
 {:.info}
 
-## JAN.27 <span class="credit">(credit: [Michael Lowe](https://twitter.com/mrjlowe))</span> {#jan27}
+## JAN.27 <span class="credit">(credit: [Michael Lowe](https://twitter.com/mjrlowe))</span> {#jan27}
 
 <b style="background-color: #2E294E">#2E294E</b>
 <b style="background-color: #541388">#541388</b>
@@ -139,7 +140,7 @@ Airport carpet.
 <b style="background-color: #FFD400">#FFD400</b>
 <b style="background-color: #D90368">#D90368</b>
 
-## JAN.28 <span class="credit">(credit: [Michael Lowe](https://twitter.com/mrjlowe))</span> {#jan28}
+## JAN.28 <span class="credit">(credit: [Michael Lowe](https://twitter.com/mjrlowe))</span> {#jan28}
 
 Self portrait.
 
@@ -151,7 +152,7 @@ Isometric perspective.
 
 Organic looking output using only rectangular shapes.
 
-## JAN.31 <span class="credit">(credit: [Michael Lowe](https://twitter.com/mrjlowe))</span> {#jan31}
+## JAN.31 <span class="credit">(credit: [Michael Lowe](https://twitter.com/mjrlowe))</span> {#jan31}
 
 Negative space.
 
@@ -161,7 +162,7 @@ Negative space.
 
 # [IDEAS](https://github.com/genuary2022/genuary2022.github.io/issues/3)
 
-Came up with a brilliant idea for next year's prompt? [File an issue on our github!](https://github.com/genuary2022/genuary2022.github.io/issues/3)
+Came up with a brilliant idea for next year's prompt? Add it to [this issue](https://github.com/genuary2022/genuary2022.github.io/issues/3) on our Github!
 
 <script>
     function setHighlight () {
