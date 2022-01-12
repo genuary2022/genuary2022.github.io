@@ -69,9 +69,9 @@ Packing (squares, circles, any shape…)
 
 ## JAN.13 <span class="credit">(credit: [Ben Kovach](https://twitter.com/bendotk))</span> {#jan13}
 
-80x800.
+800x80.
 
-[#80x800](https://twitter.com/hashtag/800x80)  
+[#800x80](https://twitter.com/hashtag/800x80)  
 {:.info}
 
 ## JAN.14 <span class="credit">(credit: [Devi Parikh](https://twitter.com/deviparikh))</span> {#jan14}
